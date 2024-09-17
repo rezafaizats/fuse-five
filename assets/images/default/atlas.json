@@ -1,0 +1,12 @@
+{
+    "exporter": "Phaser3",
+    "recursive": false,
+    "width": 2048,
+    "height": 2048,
+    "powerOfTwo": true,
+    "allowRotation": false,
+    "removeFileExtension": true,
+    "padding": 1,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestLongSideFit"
+}

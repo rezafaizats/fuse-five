@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "strict": true,
+        "baseUrl": "../",
+        "paths": {
+            "Core": [
+                "core"
+            ],
+            "Src": [
+                "src"
+            ],
+            "Assets": [
+                "assets"
+            ],
+            "Data": [
+                "data"
+            ]
+        }
+    },
+    "include": [
+        "../core",
+        "../src",
+        "../assets/_",
+        "../data"
+    ]
+}

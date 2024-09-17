@@ -1,2 +1,3 @@
-# fuse-five
- 2D games created using Phaser 3
+# Lets Go Harvest
+
+Casual, Puzzle and Match-3 game using Phaser 3
